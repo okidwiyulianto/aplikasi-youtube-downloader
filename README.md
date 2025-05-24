@@ -7,7 +7,7 @@
 👋 Selamat datang di **Pengunduh Video YouTube Super Kece**! Aplikasi web sederhana namun powerful yang dibangun dengan Python dan Streamlit untuk mengunduh video favoritmu dari YouTube dengan mudah dan cepat. Ucapkan selamat tinggal pada proses unduh yang ribet! 😉
 
 <p align="center">
-  <em>[Screenshot Aplikasi](https://raw.githubusercontent.com/okidwiyulianto/aplikasi-youtube-downloader/refs/heads/main/assets/sc-aplikasi-youtube-downlader.png)</em>
+  <em><img src="https://raw.githubusercontent.com/okidwiyulianto/aplikasi-youtube-downloader/refs/heads/main/assets/sc-aplikasi-youtube-downlader.png" width="600" height="400"/></em>
 </p>
 
 ## 🌟 Fitur Unggulan
